@@ -1,16 +1,49 @@
-# React + Vite
+# 📌 Personal LLM Chat Bot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and minimal **personal AI assistant** built to answer your everyday questions quickly.  
+Designed with an elegant UI, smooth user experience, and support for **Dark & Light modes**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+- ⚡ Personal AI chat assistant  
+- 🌓 Dark & Light Mode toggle  
+- 💬 Modern chat interface  
+- 🔄 Recent prompt history  
+- 📱 Responsive design  
+- 🔐 API keys handled via environment variables  
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📸 Screenshots
 
-## Expanding the ESLint configuration
+### 🌙 Dark Mode
+<img width="1920" height="993" alt="image" src="https://github.com/user-attachments/assets/13a18439-95eb-4357-8a30-33da340cc601" />
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+### ☀️ Light Mode
+<img width="1920" height="993" alt="image" src="https://github.com/user-attachments/assets/2f03968f-6425-458e-9d95-b647c77cbe74" />
+
+---
+
+### 💬 Chat Interface
+<img width="1920" height="993" alt="image" src="https://github.com/user-attachments/assets/fa726656-d0b9-40e5-9d0e-263f9288853a" />
+
+---
+
+## 🚀 Tech Stack
+- **React.js**  
+- **CSS**  
+- **Context API**  
+- **OpenAI / Custom LLM API**  
+- **dotenv**  
+
+---
+
+## 🛠️ Installation & Setup
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/rahullxsharmaa/Personal-LLM-Bot.git
+cd Personal-LLM-Bot
