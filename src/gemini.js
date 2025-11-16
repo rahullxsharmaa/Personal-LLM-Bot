@@ -1,5 +1,6 @@
 import { GoogleGenAI } from "@google/genai";
-const api="AIzaSyDZcdnF9bKmp2uEyF6JedHUjEA_5BY6FDo"
+
+// I have removed api-key for privacy 
 
 const ai = new GoogleGenAI({apiKey:api});
 
