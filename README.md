@@ -41,8 +41,7 @@ Designed with an elegant UI, smooth user experience, and support for **Dark & Li
 - **React.js**  
 - **CSS**  
 - **Context API**  
-- **OpenAI / Custom LLM API**  
-- **dotenv**  
+- **Gemini API**  
 
 ---
 
