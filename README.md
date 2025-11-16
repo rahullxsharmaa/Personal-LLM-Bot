@@ -1,6 +1,6 @@
 # 📌 Rahul's Personal LLM Chat Bot
 
-### Link : https://rahul-personal-llm.netlify.app/
+Link : https://rahul-personal-llm.netlify.app/
 
 A clean and minimal **personal AI assistant** built to answer your everyday questions quickly.  
 Designed with an elegant UI, smooth user experience, and support for **Dark & Light modes**.
