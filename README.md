@@ -1,4 +1,4 @@
-# 📌 Personal LLM Chat Bot
+# 📌 Rahul's Personal LLM Chat Bot
 
 A clean and minimal **personal AI assistant** built to answer your everyday questions quickly.  
 Designed with an elegant UI, smooth user experience, and support for **Dark & Light modes**.
@@ -29,6 +29,9 @@ Designed with an elegant UI, smooth user experience, and support for **Dark & Li
 
 ### 💬 Chat Interface
 <img width="1920" height="993" alt="image" src="https://github.com/user-attachments/assets/fa726656-d0b9-40e5-9d0e-263f9288853a" />
+
+<img width="1920" height="993" alt="image" src="https://github.com/user-attachments/assets/f5925d44-e58f-44c5-8ae7-b64ed47c6792" />
+
 
 ---
 
